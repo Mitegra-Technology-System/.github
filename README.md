@@ -24,7 +24,7 @@ Here are some of the projects we have developed:
 
 ### Project 2: Mitegra IA Systems
 
-- Repository: [https://github.com/mitegra/mitegra-ia-systems](https://github.com/Mitegra-Technology-System/Mitegra-IA-System](https://github.com/Mitegra-Technology-System/Mitegra-IA-System)
+- Repository: [https://github.com/mitegra/mitegra-ia-systems](https://github.com/Mitegra-Technology-System/Mitegra-IA-System)
 - Description: Mitegra IA Systems is a web application developed for managing invoices and accounting processes within Mitegra.
 
 These projects are actively maintained and updated by our staff developers.
